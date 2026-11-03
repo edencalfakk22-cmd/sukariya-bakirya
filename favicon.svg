@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="c"><ellipse cx="32" cy="32" rx="17" ry="14"/></clipPath>
+  </defs>
+  <g transform="rotate(-30 32 32)" stroke="#2a1720" stroke-width="3" stroke-linejoin="round">
+    <path d="M16 32 L3 20 Q0 32 3 44 Z" fill="#ffd23f"/>
+    <path d="M48 32 L61 20 Q64 32 61 44 Z" fill="#ffd23f"/>
+    <ellipse cx="32" cy="32" rx="17" ry="14" fill="#e0256b"/>
+    <g clip-path="url(#c)" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round">
+      <path d="M24 16 Q19 32 24 48"/>
+      <path d="M34 16 Q29 32 34 48"/>
+      <path d="M44 16 Q39 32 44 48"/>
+    </g>
+    <ellipse cx="32" cy="32" rx="17" ry="14" fill="none"/>
+  </g>
+</svg>
